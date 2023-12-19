@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import img from '../../assets/Registration.png'
+import img from '../../assets/reg.png'
 import { IoEye } from "react-icons/io5";
 import { IoMdEyeOff } from "react-icons/io";
 import { Link, useNavigate } from 'react-router-dom';
